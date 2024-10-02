@@ -1,10 +1,13 @@
 # 黄昏酒馆（Dusk Pub）v1.13免安装中文版
 ![ss_bb990cfdc0021c30ce09d5e6691daf9a1c043878 1920x1080](https://github.com/user-attachments/assets/cdb36751-980b-42a5-a7a4-1f377123ca20)
 《黄昏酒馆》是一款模拟经营GALGAME游戏。 作为「黄昏酒馆」的店长，你需要努力经营自己破旧的酒馆，做大做强，打败邪恶的资本家，将分店扩张至「布伦特」大陆的不同地区。期间你还会邂逅各式各样的美少女，招募她们成为你的店员，培养她们的业务能力并了解她们的全部吧。
+
 ---
-最低配置:
+
+#### 最低配置:
 操作系统 *: Windows7/8/10/11
 内存: 8 GB RAM
+
 ---
 ![ss_1666d12905922531693ca36bda9dbc6a6d6331ae 1920x1080](https://github.com/user-attachments/assets/ff44eef4-7f1a-49e9-be11-0e5872428efd)
 ![ss_4bee98a8ff7a23b305c8b1ac4efbf4450ff00790 1920x1080](https://github.com/user-attachments/assets/e55fb20d-a988-40b8-837a-a8e4fd7ecadc)
