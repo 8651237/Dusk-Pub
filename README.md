@@ -19,6 +19,9 @@
 ![ss_e2466284e07e8f45427b8b047da21bfe2a5ab5ee 1920x1080](https://github.com/user-attachments/assets/53cc6122-20aa-4327-a55d-b7a26ceae527)
 ![ss_eed9b739668b11ba05c58ab5d48fec29ae3dd65d 1920x1080](https://github.com/user-attachments/assets/ad36be4d-1998-400f-a2ad-6a6204392aaa)
 
+> 游戏教程:
+1.slds
+2.skds
 < 1.免安装版直接解压，双击游戏图标样式exe即可
 < 2.游戏请放在全英文路径
 < 3.常用游戏软件安装运行方法（图解）：
