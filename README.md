@@ -5,8 +5,8 @@
 ---
 
 #### 最低配置:
-*操作系统 *: Windows7/8/10/11
-*内存: 8 GB RAM
+* 操作系统 *: Windows7/8/10/11
+* 内存: 8 GB RAM
 
 ---
 ![ss_1666d12905922531693ca36bda9dbc6a6d6331ae 1920x1080](https://github.com/user-attachments/assets/ff44eef4-7f1a-49e9-be11-0e5872428efd)
